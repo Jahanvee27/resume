@@ -1,0 +1,121 @@
+#background{
+    background-color: black;
+}
+.img-circle{
+    border-radius: 50%;
+}
+img{
+
+    display: inline-block;
+    float: left;
+    margin-left: 15%;
+}
+
+.panel {
+    border: 1px solid #f4511e;
+    border-radius: 0 !important;
+    transition: box-shadow 0.5s;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: grey;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.panel-heading {
+    color: #fff !important;
+    background-color: #f4511e !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    font: xx-large;
+}
+.panel-body {
+    color: #fff;
+    padding: 15px;
+    background-color: indigo;
+}
+.animate__fadeInDown {
+    animation-name: fadeInDown;
+}
+.animate__animated {
+    animation-duration: var(--animate-duration);
+    animation-fill-mode: both;
+}
+.main{
+    margin-top: 70px;
+}
+h1{
+    height: 100px;
+    width: 500px;
+    display: inline-block;
+    background-color: burlywood;
+    
+}
+.text{
+    margin-left: 150px;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 30px;
+}
+ul{
+    height: 100px;
+    width: 650px;
+    display: inline-block;
+}
+.content{
+    margin-left: 100px;
+    font-weight: bolder;
+    text-align: justify;
+    padding-left: 30px;
+    color: cornsilk;
+    font-size: x-large;
+}
+.last{
+    margin-top: 70px;
+    display: inline-block;
+}
+h3{
+    margin-top: 50px;
+    background-color: #f4511e;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    padding-left: 30px;
+    margin-left: 30px;
+    display: inline-block;
+}
+.key{
+    margin-left: 150px;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 80px;
+    color: cornsilk;
+    padding-left: 10px;
+}
+p{
+    display: inline-block;
+    color: cornsilk;
+    padding-left: 0px;
+    padding-top: 15px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    background-color: indigo;
+}
+.lastcontent{
+    margin-left: 60px;
+}
+#pinfo{
+    text-align: center;
+    margin-left: 32%;
+    margin-top: 100px;
+    padding-top: 30px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#personal{
+    margin-left: 25%;
+}
